@@ -1,0 +1,33 @@
+#header {
+    font-size: 36px;
+    background-color: yellow;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p.greentea {
+    color: green;
+    background-color: white;
+    font-size: 18px;
+}
+
+p.raspberry {
+    color: blue;
+    background-color: white;
+    font-size: 18px;
+}
+
+p.blueberry {
+    color: purple;
+    background-color: white;
+    font-size: 18px;
+}
+
+p.cranberry {
+    color: red;
+    background-color: white;
+    font-size: 18px;
+}
