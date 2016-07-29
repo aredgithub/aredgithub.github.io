@@ -1,0 +1,32 @@
+em {
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    color: green;
+    font-weight: bold;
+}
+
+h1,
+h2 {
+    font-family: cursive;
+    font-size: 24pt;
+}
+
+img {
+    border-width: 24px;
+}
+
+ol li {
+    font-family: 'Indie Flower', cursive;
+    color: brown;
+    text-decoration: underline;
+}
+
+ul li {
+    font-family: 'Indie Flower', cursive;
+    color: brown;
+    text-decoration: underline;
+}
+
+h1+p {
+    font-family: 'Candal', sans-serif;
+    color: blue;
+}
