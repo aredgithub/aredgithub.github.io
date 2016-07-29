@@ -1,32 +1,45 @@
+body {
+    font-size: 12px;
+    background-color: rgb(90%, 90%, 70%);
+}
+
 em {
     font-family: Verdana, Geneva, Arial, sans-serif;
-    color: green;
-    font-weight: bold;
+    color: rgb(120, 150, 255);
+    font-size: 1.8em;
+    font-weight: bolder;
 }
 
 h1,
 h2 {
     font-family: cursive;
-    font-size: 24pt;
-}
-
-img {
-    border-width: 24px;
+    font-size: 200%;
 }
 
 ol li {
     font-family: 'Indie Flower', cursive;
+    font-size: 150%;
     color: brown;
     text-decoration: underline;
 }
 
 ul li {
     font-family: 'Indie Flower', cursive;
+    font-size: 150%;
     color: brown;
     text-decoration: underline;
 }
 
 h1+p {
     font-family: 'Candal', sans-serif;
-    color: blue;
+    color: #cc6600;
+    font-style: italic;
+}
+
+q {
+    font-size: large;
+}
+
+b {
+    font-size: xx-large;
 }
