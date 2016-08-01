@@ -1,5 +1,6 @@
 body {
     margin: 24px;
+    background-color: #FFFFF7;
 }
 
 h1 {
@@ -19,7 +20,7 @@ td {
 }
 
 th.tmonth {
-    width: 60px;
+    width: 75px;
 }
 
 th.tdate {
