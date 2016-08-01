@@ -1,0 +1,43 @@
+#header {
+    padding: 12px;
+    font-size: 36px;
+    background-color: yellow;
+}
+
+h2 {
+    padding: 12px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p.greentea {
+    margin: 12px;
+    padding: 12px;
+    border-width: 2px;
+    border-color: black;
+    border-right-width: 4px;
+    border-left-width: 4px;
+    border-style: solid;
+    width: 360px;
+    color: green;
+    background-color: #B7F6BD;
+    font-size: 18px;
+}
+
+p.raspberry {
+    color: blue;
+    background-color: white;
+    font-size: 18px;
+}
+
+p.blueberry {
+    color: purple;
+    background-color: white;
+    font-size: 18px;
+}
+
+p.cranberry {
+    color: red;
+    background-color: white;
+    font-size: 18px;
+}

@@ -1,6 +1,5 @@
 body {
     margin: 24px;
-    background-color: #FFFFF7;
 }
 
 h1 {
@@ -9,6 +8,14 @@ h1 {
 
 table {
     margin: auto;
+}
+
+tr.tr0 {
+    background-color: #CCE6FF;
+}
+
+tr.tr2 {
+    background-color: #FFFFCC;
 }
 
 th {
