@@ -1,0 +1,98 @@
+body {
+    text-align: center;
+    margin: auto;
+    padding: 36px;
+    padding-top: 12px;
+}
+
+#header {
+    margin: auto;
+    width: 480px;
+    padding: 12px;
+    border-width: 1px;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 12px;
+    font-size: 36px;
+    color: white;
+    background-color: gray;
+}
+
+h2 {
+    padding: 12px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Poiret One', cursive;
+}
+
+p.greentea {
+    margin: auto;
+    text-align: justify;
+    padding: 12px;
+    border-width: 2px;
+    border-color: black;
+    border-style: dashed;
+    border-radius: 12px;
+    width: 480px;
+    color: white;
+    background-color: #88AA00;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 24px;
+    background-image: url(images/likebutton.png);
+    background-size: 50px;
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+p.raspberry {
+    margin: auto;
+    text-align: justify;
+    padding: 12px;
+    border-width: 2px;
+    border-color: black;
+    border-style: dashed;
+    border-radius: 12px;
+    width: 480px;
+    color: white;
+    background-color: #009FCC;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 24px;
+}
+
+p.blueberry {
+    margin: auto;
+    text-align: justify;
+    padding: 12px;
+    border-width: 2px;
+    border-color: black;
+    border-style: dashed;
+    border-radius: 12px;
+    width: 480px;
+    color: white;
+    background-color: #9955FF;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 24px;
+    background-image: url(images/likebutton.png);
+    background-size: 50px;
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+p.cranberry {
+    margin: auto;
+    text-align: justify;
+    padding: 12px;
+    border-width: 2px;
+    border-color: black;
+    border-style: dashed;
+    border-radius: 12px;
+    width: 480px;
+    color: white;
+    background-color: #B22222;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 24px;
+}

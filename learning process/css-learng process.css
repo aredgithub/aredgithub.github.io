@@ -1,4 +1,5 @@
 body {
+    background-color: #F0FFA3;
     margin: 24px;
 }
 
@@ -14,8 +15,8 @@ tr.tr0 {
     background-color: #CCE6FF;
 }
 
-tr.tr2 {
-    background-color: #FFFFCC;
+tr.tr1 {
+    background-color: #FFFFFF;
 }
 
 th {
