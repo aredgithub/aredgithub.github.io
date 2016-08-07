@@ -34,3 +34,8 @@ th.tmonth {
 th.tdate {
     width: 120px;
 }
+
+#skip1 {
+    color: gray;
+    background-color: #F28080;
+}
