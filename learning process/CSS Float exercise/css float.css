@@ -1,0 +1,138 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.list {
+    width: 100%;
+    height: 50px;
+    background-color: #9A5927;
+    position: fixed;
+}
+
+ul li {
+    display: block;
+    float: left;
+    background-color: #9A5927;
+    width: 150px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 18px;
+    font-family: 微軟正黑體;
+}
+
+ul li a {
+    color: #f9f59a;
+    text-decoration: none;
+}
+
+ul li ul {
+    display: none;
+}
+
+ul li:hover ul {
+    display: block;
+}
+
+ul li:hover {
+    background-color: #ba7947;
+}
+
+ul li ul li:hover {
+    background-color: #f9f59a;
+}
+
+ul li ul li:hover a {
+    color: #9a5927;
+}
+
+#bk {
+    text-align: center;
+    margin: auto;
+}
+
+#bk h4 {
+    color: #9A5927;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+#bk p {
+    margin: auto;
+    margin-top: 12px;
+    padding: 6px;
+    background-color: #f9f59a;
+    width: 700px;
+    text-align: left;
+    line-height: 27px;
+    font-family: 微軟正黑體;
+    font-size: 18px;
+}
+
+#good {
+    display: block;
+    float: left;
+    width: 320px;
+    height: 540px;
+    padding: 12px;
+    margin-left: 50px;
+    background-color: #F5F5DC;
+    text-align: center;
+    line-height: 27px;
+    font-family: 微軟正黑體;
+    font-size: 18px;
+}
+
+#bad {
+    display: block;
+    float: left;
+    width: 320px;
+    height: 540px;
+    padding: 12px;
+    margin-left: 65px;
+    margin-right: 65px;
+    background-color: #F5F5DC;
+    text-align: center;
+    line-height: 27px;
+    font-family: 微軟正黑體;
+    font-size: 18px;
+}
+
+#feature {
+    display: block;
+    float: right;
+    width: 320px;
+    height: 540px;
+    padding: 12px;
+    margin-right: 50px;
+    background-color: #F5F5DC;
+    text-align: center;
+    line-height: 27px;
+    font-family: 微軟正黑體;
+    font-size: 18px;
+}
+
+h2 {
+    margin: 6px;
+    color: #9A5927;
+    font-size: 24px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.devide,
+h4 {
+    text-align: center;
+    line-height: 27px;
+    font-family: 微軟正黑體;
+    font-size: 18px;
+    color: #9A5927;
+}
+
+.devide,
+p {
+    text-align: justify;
+    line-height: 27px;
+    font-family: 微軟正黑體;
+    font-size: 18px;
+}
