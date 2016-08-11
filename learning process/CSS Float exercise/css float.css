@@ -70,12 +70,13 @@ ul li ul li:hover a {
 }
 
 #good {
-    display: block;
+    /*display: block;*/
+    box-sizing: border-box;
     float: left;
-    width: 320px;
-    height: 540px;
-    padding: 12px;
-    margin-left: 50px;
+    width: 24%;
+    height: 600px;
+    padding: 6px;
+    margin-left: 7%;
     background-color: #F5F5DC;
     text-align: center;
     line-height: 27px;
@@ -84,13 +85,13 @@ ul li ul li:hover a {
 }
 
 #bad {
-    display: block;
+    /*display: block;*/
+    box-sizing: border-box;
     float: left;
-    width: 320px;
-    height: 540px;
-    padding: 12px;
-    margin-left: 65px;
-    margin-right: 65px;
+    width: 24%;
+    height: 600px;
+    padding: 6px;
+    margin-left: 7%;
     background-color: #F5F5DC;
     text-align: center;
     line-height: 27px;
@@ -99,12 +100,13 @@ ul li ul li:hover a {
 }
 
 #feature {
-    display: block;
-    float: right;
-    width: 320px;
-    height: 540px;
-    padding: 12px;
-    margin-right: 50px;
+    /*display: block;*/
+    box-sizing: border-box;
+    float: left;
+    width: 24%;
+    height: 600px;
+    padding: 6px;
+    margin-left: 7%;
     background-color: #F5F5DC;
     text-align: center;
     line-height: 27px;
