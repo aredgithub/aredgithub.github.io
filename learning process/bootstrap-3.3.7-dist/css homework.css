@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+.jumbotron {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    padding: 24px;
+}
+
+.row {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    padding: 24px;
+}
+
+video {
+    position: fixed;
+    z-index: -100;
+}
