@@ -1,0 +1,27 @@
+.bar {
+    padding-bottom: 1.5em;
+}
+
+.content1 {
+    margin: auto;
+    text-align: center;
+}
+
+hr {
+    clear: both;
+}
+
+ul #bar1 {
+    display: block;
+    float: right;
+    width: 80px;
+    text-align: center;
+    font-size: 1em;
+}
+
+.list1 {
+    display: block;
+    text-align: center;
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
