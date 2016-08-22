@@ -1,8 +1,3 @@
-body {
-    background-color: #F0FFA3;
-    margin: 24px;
-}
-
 h1 {
     text-align: center;
 }
@@ -16,7 +11,7 @@ tr.tr0 {
 }
 
 tr.tr1 {
-    background-color: #FFFFFF;
+    background-color: #F7FFE0;
 }
 
 th {
