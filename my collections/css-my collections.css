@@ -23,11 +23,15 @@ td {
 }
 
 th.tmonth {
-    width: 60px;
+    width: 5%;
 }
 
 th.tdate {
-    width: 120px;
+    width: 15%;
+}
+
+th.tweekend {
+    width: 5%;
 }
 
 #skip1 {
