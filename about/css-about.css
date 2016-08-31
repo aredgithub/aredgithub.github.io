@@ -3,8 +3,8 @@
 }
 
 .content1 {
+    width: 80%;
     margin: auto;
-    text-align: center;
 }
 
 hr {
@@ -21,7 +21,6 @@ ul #bar1 {
 
 .list1 {
     display: block;
-    text-align: center;
     font-size: 1.2em;
     line-height: 1.5em;
 }

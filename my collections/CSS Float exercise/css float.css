@@ -48,7 +48,6 @@ ul li ul li:hover a {
 
 #bk {
     text-align: center;
-    margin: auto;
 }
 
 #bk h4 {
@@ -70,7 +69,7 @@ ul li ul li:hover a {
 }
 
 #good {
-    /*display: block;*/
+    display: block;
     box-sizing: border-box;
     float: left;
     width: 24%;
@@ -85,7 +84,7 @@ ul li ul li:hover a {
 }
 
 #bad {
-    /*display: block;*/
+    display: block;
     box-sizing: border-box;
     float: left;
     width: 24%;
@@ -100,7 +99,7 @@ ul li ul li:hover a {
 }
 
 #feature {
-    /*display: block;*/
+    display: block;
     box-sizing: border-box;
     float: left;
     width: 24%;
